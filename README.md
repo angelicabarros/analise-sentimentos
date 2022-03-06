@@ -1,4 +1,4 @@
-# Análise de Senimentos
+# Análise de Sentimentos
 
 Projeto de Machine Learning realizando análise de sentimentos com dados textuais
 
